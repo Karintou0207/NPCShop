@@ -2,3 +2,6 @@ name: Npcshop
 version: '${version}'
 main: karinntou0207.plugins.npcshop.Npcshop
 api-version: 1.16
+commands:
+  npcshop:
+    permission: KokutoRPG.admin
